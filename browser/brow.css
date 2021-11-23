@@ -1,0 +1,24 @@
+body{
+	background-color: #1f2e3e;
+}
+iframe{
+	margin-left:31%;
+}
+.title{
+	margin-left:45%; 
+	padding-top:50px;
+	margin-bottom: 0;
+	font-size:53px; 
+}
+.s{
+	color:#12f1e4; 
+}
+.h{
+	color:red; 
+}
+.n{
+	color:yellow; 
+}
+.i{
+	color:#30fc03; 
+}
